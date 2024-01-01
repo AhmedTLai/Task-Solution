@@ -1,0 +1,14 @@
+Typescript:
+  Task 1: Fix the transpile error
+    When running tsc you will notice an error TS18003 appear. Fix it
+  Task 2: Implement Functions in feature.ts
+    In feature.ts, you will find functions with accompanying comments explaining their intended functionality.
+    Complete these functions as described. Also, make sure to run tests and confirm that all the tests are successful.
+
+
+React-Exam:
+  Task 1: Fix all the errors.
+  Task 2: Improve the code by refactoring it.
+
+
+Note: You need to push your code on github. If there is any problem with pushing permissions you can always email me
